@@ -13,9 +13,16 @@ The standout feature of this application is the custom-built theme switcher.
 
 ## 📸 Interface Preview
 
-| Light Mode | Dark Mode |
-| :--- | :--- |
-| ![Light UI](path/to/light-screenshot.png) | ![Dark UI](path/to/dark-screenshot.png) |
+<table>
+  <tr>
+    <td><b>Light Mode</b></td>
+    <td><b>Dark Mode</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshot/Screenshot (401).png" width="200"></td>
+    <td><img src="screenshot/Screenshot (402).png" width="200"></td>
+  </tr>
+</table>
 
 ---
 
@@ -34,4 +41,4 @@ The standout feature of this application is the custom-built theme switcher.
 
 2. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/calculator-tkinter.git](https://github.com/your-username/calculator-tkinter.git)
+   git clone [https://github.com/OfficialNavneetDas/PyCalc.git](https://github.com/OfficialNavneetDas/PyCalc.git)
